@@ -6,7 +6,7 @@ public class SpaceCraft {
     int fuel;
     int velocity;
     int time;
-
+    int change; 
     int burnRate;
     
     public void init(){
