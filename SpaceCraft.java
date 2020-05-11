@@ -1,4 +1,4 @@
-
+//The change worked!
 public class SpaceCraft {
     //Initialize values
     final int GRAVITY = 9;
